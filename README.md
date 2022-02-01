@@ -1,2 +1,2 @@
 # zenhub
-Repo for develoing zenhub integration
+Repo for developing zenhub integration
