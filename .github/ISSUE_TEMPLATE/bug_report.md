@@ -12,16 +12,15 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+
+1. Execute processor/orcd command ... with `-l DEBUG` for full log output.
+2. See error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Logs**
+If applicable, append a full lof to help explain your problem.
 
-**OCR-D version**
-In which OCR-D version this bug has been observed.
+**orcd_all version**
+In which orcd_all version this bug has been observed.
