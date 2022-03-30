@@ -14,8 +14,8 @@ Describe what things are currently like.
 Illustrate what should change on the long run in order to improve OCR-D.
 
 **Steps**
-[ ] Step 1
-[ ] Step 2…
+* [ ] Step 1
+* [ ] Step 2…
 
 **Prior Art**
 What has already been done in this regard.
